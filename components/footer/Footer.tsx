@@ -20,8 +20,8 @@ const footerNavigation = {
   ],
   learning: [
     {
-      name: "Chrome插件全栈教程",
-      href: "https://ship.weijunext.com/",
+      name: "全栈开发文档",
+      href: "https://nexty.dev/docs",
       rel: "noopener noreferrer nofollow",
     },
     { name: "Next.js 中文文档", href: "https://nextjscn.org/" },
@@ -41,8 +41,8 @@ const footerNavigation = {
       href: "https://ntab.dev/?utm_source=weijunext",
     },
     {
-      name: "Dofollow.Tools",
-      href: "https://dofollow.tools/?utm_source=weijunext",
+      name: "First Look Tools",
+      href: "https://firstlook.tools/?utm_source=weijunext",
     },
   ],
 };
