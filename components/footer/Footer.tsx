@@ -28,7 +28,7 @@ const footerNavigation = {
   ],
   boilerplate: [
     { name: "Next.js SaaS 全栈模板", href: "https://nexty.dev/" },
-    { name: "Next 多语言模板", href: "https://nextforge.dev/" },
+    { name: "Next 多语言模板", href: "https://nextjsstarter.io/" },
     { name: "博客模板", href: "https://weekly.weijunext.com/" },
   ],
   indieHacker: [
